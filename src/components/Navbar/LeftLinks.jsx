@@ -14,6 +14,11 @@ const LeftLinks = () => {
           <SlArrowDown style={{ fontSize: '12px' }} />
         </div>
         <div className='item'>
+          <Link className='link' to='collections/new'>
+            New
+          </Link>
+        </div>
+        <div className='item'>
           <Link className='link' to='collections/bestsellers'>
             Bestsellers
           </Link>

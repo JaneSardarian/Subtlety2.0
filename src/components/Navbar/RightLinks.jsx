@@ -18,17 +18,17 @@ const RightLinks = () => {
           </Link>
         </div>
         <div className='item'>
-          <Link className='link' to='/'>
+          <Link className='link' to='about'>
             About
           </Link>
         </div>
         <div className='item'>
-          <Link className='link' to='/'>
-            Contact
+          <Link className='link' to='/services'>
+            Services
           </Link>
         </div>
         <div className='item'>
-          <Link className='link' to='/'>
+          <Link className='link' to='/stores'>
             Stores
           </Link>
         </div>
